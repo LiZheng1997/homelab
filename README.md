@@ -39,9 +39,11 @@ All Private services are listed bellow:
 |      NAS                  |    NAS-QunHui         |           ***secret***                 |
 |      Rancher              |    Ubuntu22-Dev       |           ***secret***                 |
 |      Istoreos             |    istoreos           |           ***secret***                 |
+|      Minio                |    NAS-QunHui         |           ***secret***                 |
 
 ## Logs
 This logs are used as backup notes for maintenance.
 - [ ] Test if all public services are avaliable
 - [ ] Add a istoreos server
+- [ ] Add a minio OSS server
 
