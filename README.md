@@ -44,7 +44,7 @@ All Private services are listed bellow:
 |      Istoreos             |    istoreos           |           ***secret***                 |
 |      Shanghai-NAS         |    Synology-NAS       |           ***secret***                 |
 |      Harbor               |    Synology-NAS       |           ***secret***                 |
-|      LLama                |    Supermicro         |           ***secret***                 |
+|      LLama                |    Supermicro         |***secret***                            |
 
 ## Logs
 This logs are used as backup notes for maintenance.
