@@ -144,3 +144,4 @@ services:
         subtitle: "Personal Tech Homepage"
         tag: "web"
         url: "https://bluenote.top/"
+        target: "_blank"
