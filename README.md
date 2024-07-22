@@ -34,17 +34,17 @@ avaliable URL: internal URL
 All Private services are listed bellow:
 |        Applications       |  Hosted-servers       |                  URLs                  |
 | :-----------------------: | :--------------:      | :------------------------------------: |
-|      JupyterLab-GPU       |    GPU-server         |           ***secret***                 |
-|      Nextcloud            |    Ubuntu22-Test      |           ***secret***                 |
-|      Center Homelab NAS   |    NAS-QunHui         |           ***secret***                 |
-|      Rancher              |    Ubuntu22-Dev       |           ***secret***                 |
-|      Istoreos             |    istoreos           |           ***secret***                 |
-|      MinIO                |    NAS-QunHui         |           ***secret***                 |
-|      CVAT                 |    Synology-NAS       |           ***secret***                 |
-|      Istoreos             |    istoreos           |           ***secret***                 |
-|      Shanghai-NAS         |    Synology-NAS       |           ***secret***                 |
-|      Harbor               |    Synology-NAS       |           ***secret***                 |
-|      LLama                |    Supermicro         |***secret***                            |
+|      JupyterLab-GPU       |    GPU-server         |***secret***|
+|      Nextcloud            |    Ubuntu22-Test      |***secret***|
+|      Center Homelab NAS   |    NAS-QunHui         |***secret***|
+|      Rancher              |    Ubuntu22-Dev       |***secret***|
+|      Istoreos             |    istoreos           |***secret***|
+|      MinIO                |    NAS-QunHui         |***secret***|
+|      CVAT                 |    Synology-NAS       |***secret***|
+|      Istoreos             |    istoreos           |***secret***|
+|      Shanghai-NAS         |    Synology-NAS       |***secret***|
+|      Harbor               |    Synology-NAS       |***secret***|
+|      LLama                |    Supermicro         |***secret***|
 
 ## Logs
 This logs are used as backup notes for maintenance.
