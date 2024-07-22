@@ -10,8 +10,8 @@ I make a home page based on a github project named homer, https://github.com/bas
 avaliable URL: [homelab.gputek.cn](http://homelab.gputek.cn/)
 
 All Public services are listed bellow:
-|        Applications       |  Hosted-servers   |                  URLs                                              |
-| :-----------------------: | :--------------:  |           :------------------------------------:                   |
+|        Applications       |  Hosted-servers   |                  URLs                                      |
+| :-----------------------: | :--------------:  | :------------------------------------:                     |
 |      Personal Blogs       |   Ubuntu22-blog   |[www.bluenote.top](https://www.bluenote.top )               |
 |       Hexo-Blog           |   Ubuntu22-blog   |[www.bluenote.top](https://www.bluenote.top/)               |
 | Personal Academic Website |      Github       |[neuronsvisioncom](https://neuronsvisioncom/)               |
