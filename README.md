@@ -23,7 +23,7 @@ All Public services are listed bellow:
 |      1Panel-JumpServer    | Ubuntu-JumpServer |[Baota](https://www.gputek.cn:34307/7bea1109d8)|
 |       Baota-Panel-Main    |Ubuntu22-Baota-Prod|[baota.gputek.cn](http://baota.gputek.cn/)|
 |       Calibre             |Synology-NAS       |[Calibre](http://www.synotech.top:8888/)|
-
+|      Harbor               |    Synology-NAS   |[Harbor](https://www.synotech.top:4001)|
 
 
 ### Private Dashboard
@@ -44,6 +44,7 @@ All Private services are listed bellow:
 |      Istoreos             |    istoreos           |           ***secret***                 |
 |      Shanghai-NAS         |    Synology-NAS       |           ***secret***                 |
 |      Harbor               |    Synology-NAS       |           ***secret***                 |
+|      LLama                |    Supermicro         |           ***secret***                 |
 
 ## Logs
 This logs are used as backup notes for maintenance.
@@ -54,9 +55,13 @@ This logs are used as backup notes for maintenance.
 - [x] Delete previous openwrt VM
 
 ### TODO
+- [ ] Deploy CVAT on NAS-Qunhui for testing.
 - [ ] Change CVAT from Shanghai to center homelab
 - [ ] Connect CVAT with MinIO
 - [ ] Transfer some datasets to the MinIO OSS data pool.
+- [ ] Change the DNS supplier to cloudflare or others with HTTPS
+- [ ] Apply CDN to some services after last step, in order to speed up websites loading effect.
+
 
 
 
