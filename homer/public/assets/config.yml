@@ -90,7 +90,7 @@ services:
         url: "https://www.gputek.cn:8084/"
         target: "_blank"
       - name: "Harbor"
-        logo: "assets/tools/harbor-logo.svg"
+        logo: "assets/tools/harbor-logo.png"
         subtitle: "Harbor docker images"
         tag: "app"
         url: "https://www.synotech.top:4001/"
